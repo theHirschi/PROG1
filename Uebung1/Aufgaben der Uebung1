@@ -1,0 +1,4 @@
+Aufgaben der Uebung1
+die Ordner beschreiben die Nummer der Aufgabe und das Package in dem die Klasse liegt
+- die Klasse wird meistens Beispiel oder Run genannt
+- es wird immer das javapack.*; importiert
